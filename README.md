@@ -12,7 +12,7 @@ Thank you to my classmate Alexandre Olivier for the support during this competit
 Source:
 - [DrivenData competition link](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
 
-## Kaggle: Titanic: Machine Learning form Disaster
+## Kaggle: Titanic: Machine Learning from Disaster
 Binary classification problem - Handy data set, with reasonably amounts of features and “low dimensionality”
 
 **Best Final score 79.8% - Top 12% as of April 2018.**
