@@ -20,6 +20,6 @@ Binary classification problem - Handy data set, with reasonably amounts of featu
 The goal for the competition was not so much the accuracy but more to implement some genetic programming techniques (gplearn) for features creation and to run some of the algorithm into H20.
 
 Sources:
-- [kaggle: Titanic competition](https://www.kaggle.com/c/titanic)
+- [Kaggle: Titanic competition](https://www.kaggle.com/c/titanic)
 - [Gplearn main page](http://gplearn.readthedocs.io/en/stable/intro.html)
 - [H2O main page](https://www.h2o.ai/)
